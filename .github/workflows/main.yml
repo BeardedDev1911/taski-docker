@@ -94,4 +94,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/taski_frontend:latest
+          tags: bearded1911/taski_frontend:latest
