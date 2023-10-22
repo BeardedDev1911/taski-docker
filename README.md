@@ -1,3 +1,2 @@
 # taski-docker
-dfg
-asdasda
+Тут должно быть описание проекта
